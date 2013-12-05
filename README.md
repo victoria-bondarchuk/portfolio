@@ -1,4 +1,2 @@
-portfolio
-=========
-
-Victoria Bondarchuk CV
+victoria.bondarchuk.portfolio
+=============================
